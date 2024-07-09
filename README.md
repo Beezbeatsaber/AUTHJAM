@@ -1,5 +1,3 @@
-# AUTHJAM
+# A Small Game Jam | Code Jam Called AUTHJAM
 
-Made By BEEZ,
-This is my submission to a small 1v1 between two people 
-called AUTHJAM
+you can find necisary files for this jam ex: icon.ico and icon.png.
